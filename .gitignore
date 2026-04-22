@@ -1,2 +1,5 @@
 # Files to ignore in Git
 .env
+
+# Folders to ignore
+zipcovenv
